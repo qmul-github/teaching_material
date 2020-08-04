@@ -4,4 +4,4 @@ Different branches represent different modules. Content will be made available t
 
 Please note that this is a public repository.
 
-Please email r.castillo@qmul.ac.uk to request collaborator access to this repositor. Please include the module code/s teaching material is intended for.
+Please email eecs-systems-team@lists.eecs.qmul.ac.uk to request collaborator access to this repositor. Please include the module code/s teaching material is intended for.
