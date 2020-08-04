@@ -1,4 +1,4 @@
-Teaching material for modules in the School of Electrical Engineering and Cumputer Science maintained by lecturers.
+Teaching material for modules in the School of Electrical Engineering and Computer Science maintained by lecturers.
 
 Different branches represent different modules. Content will be made available to students' home directories in a folder named <module_code> in folder 'Teaching Material'. Teaching material is only made available to students of relevance to course module.
 
