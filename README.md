@@ -1,1 +1,1 @@
-# Teaching material maintained by lecturers. Different branches represent differnt modules
+Teaching material for module ECS401U
