@@ -1,1 +1,1 @@
-Teaching material for module ECS7024
+Teaching material for module ECS7024P
