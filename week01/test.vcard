@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Address Book 6.1.2//EN
+N:Doe;John;;;
+FN:Doe John
+ORG:Queen Mary;
+EMAIL;type=INTERNET;type=HOME;type=pref:JohnDoe@nogmail.com
+TEL;type=CELL;type=VOICE;type=pref:0751 234567
+TEL;type=HOME;type=VOICE:020 7123 4567
+item1.ADR;type=HOME;type=pref:;;42 Nowhere St;London;;E1 0XX;
+item1.X-ABADR:gb
+X-ABUID:85152BB5-BFB5-45DA-853A-BA021C7A0FC8:ABPerson
+END:VCARD
