@@ -1,1 +1,1 @@
-Teaching material for DEN4108 Engineering Mechanics: Dynamics
+Teaching material for ECS7013: Deep learning for Audio and Music
